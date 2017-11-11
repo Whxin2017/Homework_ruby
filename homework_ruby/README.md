@@ -1,24 +1,7 @@
 # README
+作业：
+1、链接到UCAS首页，www.ucas.ac.cn
+2、显示本地时间
+3、页面跳转至一个数据库，可以创建人员信息，包括姓名，生日，简历
+截图如下：
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
